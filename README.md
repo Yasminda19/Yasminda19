@@ -2,7 +2,7 @@
 
 <h2 style="text-align: center;"><a href="https://yasmin.noxra.id/">About Me - yasmin.noxra.id</a></h2>
 
-- 🏢 I am currently working as a **Lead Product Manager** at AIDO Health
+- 🏢 I am currently working as a **Lead Product Manager** at AIDO Health and Lecturer at Automation Industry - Electrical Engineering in Public University
 - 🏢 Former **Product Manager** at [SehatQ]([https://www.ilabs.lk/](https://kliniksehatq.com/)) [Bithealth]([bithealth.co.id))
 - 🎓 Studies for Master of Biomedical Engineering at [University of Indonesia](ui.ac.id)
 - 🎓 Studies for Bachelor of Computer Science at [IPB University](ipb.ac.id)
